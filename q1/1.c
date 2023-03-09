@@ -3,6 +3,7 @@
 int findLargest(int arr[], int n);
 int findSmallest(int arr[], int n);
 
+
 int main() {
     int arr[] = {2, 4, 6, 8, 10};
     int n = sizeof(arr) / sizeof(arr[0]);
